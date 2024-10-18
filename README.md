@@ -28,14 +28,14 @@ This repository hosts a CRUD (Create, Read, Update, Delete) application develope
    `cd crud-app`
    
 3. **Setup Backend**:
-- Navigate to the backend directory.
+- Navigate to the backend directory: `cd backend` 
 - Restore NuGet packages: `dotnet restore`
 - Run the application: `dotnet run`
 
 3. **Setup Frontend**:
-- Navigate to the frontend directory.
+- Navigate to the frontend directory: `cd frontend`
 - Install dependencies: `npm install`
-- - Run the application: `npm run serve`
+- Run the application: `npm run serve`
  
 
 4. **Access the Application**: Open your browser and navigate to `http://localhost:8080`.
