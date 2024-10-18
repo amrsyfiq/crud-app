@@ -30,7 +30,7 @@ This repository hosts a CRUD (Create, Read, Update, Delete) application develope
 3. **Setup Backend**:
 - Navigate to the backend directory.
 - Restore NuGet packages: `dotnet restore`
-- Run the application: `dotnet restore`
+- Run the application: `dotnet run`
 
 3. **Setup Frontend**:
 - Navigate to the frontend directory.
